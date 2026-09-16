@@ -1,4 +1,211 @@
 {
-  "generated_at": null,
-  "repos": {}
+  "generated_at": "2026-09-16T12:47:26Z",
+  "repos": {
+    "Earnie": {
+      "daily": [
+        {
+          "date": "2026-09-02",
+          "clones_total": 4,
+          "clones_unique": 4,
+          "views_total": 7,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-09-03",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 31,
+          "views_unique": 23
+        },
+        {
+          "date": "2026-09-04",
+          "clones_total": 3,
+          "clones_unique": 3,
+          "views_total": 2,
+          "views_unique": 2
+        },
+        {
+          "date": "2026-09-05",
+          "clones_total": 17,
+          "clones_unique": 1,
+          "views_total": 4,
+          "views_unique": 3
+        },
+        {
+          "date": "2026-09-06",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 1,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-09-07",
+          "clones_total": 6,
+          "clones_unique": 3,
+          "views_total": 1,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-09-08",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 4,
+          "views_unique": 3
+        },
+        {
+          "date": "2026-09-09",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-10",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 2,
+          "views_unique": 2
+        },
+        {
+          "date": "2026-09-11",
+          "clones_total": 4,
+          "clones_unique": 3,
+          "views_total": 1,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-09-12",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 1,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-09-13",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-14",
+          "clones_total": 18,
+          "clones_unique": 9,
+          "views_total": 23,
+          "views_unique": 3
+        },
+        {
+          "date": "2026-09-15",
+          "clones_total": 26,
+          "clones_unique": 17,
+          "views_total": 59,
+          "views_unique": 6
+        }
+      ],
+      "since": "2026-09-02"
+    },
+    "ha-addon-earnie": {
+      "daily": [
+        {
+          "date": "2026-09-01",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-02",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-03",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-04",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-05",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-06",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-07",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-08",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-09",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-10",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-11",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-12",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-13",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-09-14",
+          "clones_total": 10,
+          "clones_unique": 5,
+          "views_total": 0,
+          "views_unique": 0
+        }
+      ],
+      "since": "2026-09-01"
+    }
+  }
 }
