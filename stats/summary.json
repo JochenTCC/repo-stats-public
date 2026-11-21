@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:37:00Z",
+  "generated_at": "2026-11-21T18:57:31Z",
   "repos": {
     "Earnie": {
       "daily": [
@@ -555,6 +555,13 @@
           "clones_unique": 59,
           "views_total": 5,
           "views_unique": 4
+        },
+        {
+          "date": "2026-11-20",
+          "clones_total": 119,
+          "clones_unique": 52,
+          "views_total": 9,
+          "views_unique": 5
         }
       ],
       "since": "2026-09-02"
@@ -1118,6 +1125,13 @@
           "date": "2026-11-19",
           "clones_total": 1,
           "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-20",
+          "clones_total": 13,
+          "clones_unique": 8,
           "views_total": 0,
           "views_unique": 0
         }
