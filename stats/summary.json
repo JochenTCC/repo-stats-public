@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:05:19Z",
+  "generated_at": "2026-11-22T10:21:45Z",
   "repos": {
     "Earnie": {
       "daily": [
@@ -572,6 +572,10 @@
         }
       ],
       "since": "2026-09-02"
+    },
+    "Edibert": {
+      "daily": [],
+      "since": null
     },
     "ha-addon-earnie": {
       "daily": [
