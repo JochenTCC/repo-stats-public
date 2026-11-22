@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:21:45Z",
+  "generated_at": "2026-11-22T12:01:02Z",
   "repos": {
     "Earnie": {
       "daily": [
@@ -574,8 +574,107 @@
       "since": "2026-09-02"
     },
     "Edibert": {
-      "daily": [],
-      "since": null
+      "daily": [
+        {
+          "date": "2026-11-08",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 1,
+          "views_unique": 1
+        },
+        {
+          "date": "2026-11-09",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-10",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-11",
+          "clones_total": 11,
+          "clones_unique": 7,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-12",
+          "clones_total": 4,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-13",
+          "clones_total": 5,
+          "clones_unique": 5,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-14",
+          "clones_total": 3,
+          "clones_unique": 3,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-15",
+          "clones_total": 4,
+          "clones_unique": 3,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-16",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-17",
+          "clones_total": 14,
+          "clones_unique": 9,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-18",
+          "clones_total": 1,
+          "clones_unique": 1,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-19",
+          "clones_total": 16,
+          "clones_unique": 10,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-20",
+          "clones_total": 0,
+          "clones_unique": 0,
+          "views_total": 0,
+          "views_unique": 0
+        },
+        {
+          "date": "2026-11-21",
+          "clones_total": 2,
+          "clones_unique": 2,
+          "views_total": 0,
+          "views_unique": 0
+        }
+      ],
+      "since": "2026-11-08"
     },
     "ha-addon-earnie": {
       "daily": [
